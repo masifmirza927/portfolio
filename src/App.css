@@ -1,13 +1,55 @@
+#header{
+    height: 100vh;
+    background-position: center;
+    width: 100%;
 
-
-#header {
-  height: 100vh;
-  background-position: center;
 }
 
-.heroText {
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-  justify-content: center;
+.scrollingNav {
+    background-color: rgb(91, 107, 0);
+    transition: background-color .5s ease-in;
 }
+
+.headertext{
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.servicessection{
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #F8F9FA;
+}
+
+.cardicon{
+    background-color: #FFC107;
+
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.mycard{
+    position: relative;
+    transition: all .5s ease;
+
+}
+
+.mycard:hover{
+    box-shadow: 0 0 9px 0px rgb(172, 172, 172);
+    bottom:1px;
+}
+
+.aboutsection{
+
+    padding-top: 100px;
+}
+

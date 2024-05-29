@@ -12,7 +12,6 @@ function Header() {
                     <div className="h-100 heroText ps-5">
                         <HeroText />  
                     </div>
-                       
                 </div>
             </section>
 

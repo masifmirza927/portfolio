@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,64 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+
+/*------------------------- Photography---------------------------- */
+
+.photography{
+margin-top: 200px;
+}
+
+
+.img-position{
+      top: -192px;
+
+}
+.img7-position{
+      top: -310px;
+
+}
+.img10-position{
+      top: -640px;
+}
+.img6-position{
+      top: 20px;
+}
+.img8-position{
+      bottom: 176px;
+
+}
+.img9-position{
+    bottom: 310px;
+}
+
+/*------------------------ Reviews------------------- */
+
+
+
+.my-slider{
+          background-color: orange;
+    padding: 100px 0;
+    color: white;
+        margin-top: -420px;
+
+}
+
+.paragraf-size{
+      padding: 0px 413px;
+    text-align: center;
+}
+
+.quits-icon{
+      display: inline-block;
+      margin-bottom: 20px;
+      margin-top: 50px;
+
+      
+}
+
+/*---------------------- Blog Posts--------------------- */
+.blog-heading{
+      margin-top: 100px;
+      margin-bottom: 90px;
 }
